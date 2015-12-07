@@ -1,10 +1,10 @@
 *{
-	margin: 50px;
+	margin: 0;
 	padding: 0;
 }
 
 body {
-	background-color: #fff;
+	background-color: #e7ecee;
 	font-family: sans-serif;
 	background:
     linear-gradient(#ced3d4, transparent 1px),
